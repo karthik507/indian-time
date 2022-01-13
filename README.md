@@ -1,2 +1,2 @@
 indian time
-using css,hytml,java acript and bootstrap
+using css,html,java acript and bootstrap
